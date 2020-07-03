@@ -1,3 +1,3 @@
 # shopcart
 
-Porjeto de carrinho de compras feito para estudo em Flutter, app feito por enquanto só para Android
+Projeto de carrinho de compras feito para estudo em Flutter, app feito por enquanto só para Android
